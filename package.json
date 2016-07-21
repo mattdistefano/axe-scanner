@@ -11,7 +11,6 @@
   "dependencies": {
     "axe": "0.0.2",
     "axe-webdriverjs": "^0.2.0",
-    "ecstatic": "^1.4.1",
     "selenium-webdriver": "^2.53.3"
   },
   "devDependencies": {
